@@ -1,6 +1,7 @@
 """
-@Author:   MaximilianEdison (MaxianEdison)
-@Date:     2023-06-15 06:39:51
+@Author:   Sejal Kagdelwar
+@Email:    sejalkagdelwar@gmail.com
+@Date:     2026-02-18 
 """
 
 import os
